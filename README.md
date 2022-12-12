@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shai Batonya
 - 👀 I’m interested in full-stack programing
 - 🌱 I’m currently learning full-stack
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me shaisvili09@gamil.com
 
 <!---
